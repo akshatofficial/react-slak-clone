@@ -1,0 +1,21 @@
+1. Wireframing - Draw a rough sketch that we are actually really going to build.
+2. Functionality - 
+    * SignIn
+    * SignUp
+    * Creating Channel
+    * Send Message in a Channel
+    * Join a Channel
+    * Search a Channel
+3. Data
+    * Users
+    * Channels
+    * Messages
+4. UI
+    * React
+5. UI - Components
+    * SideBar -> List of Channels
+              -> Messages
+    * Chat - Container -> header
+                       -> Message 
+                       -> Create - Message - Component
+    * SignIn/Signup Form
